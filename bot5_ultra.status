@@ -1,0 +1,19 @@
+{
+  "time": "2025-10-19 16:41:42",
+  "state": "running",
+  "coins": [
+    "BTC",
+    "ETH",
+    "LTC",
+    "LINEA",
+    "SOL",
+    "BNB",
+    "ADA",
+    "PEPE"
+  ],
+  "paused": false,
+  "pace_sec": 20,
+  "alert_only": false,
+  "paper_trade": true,
+  "learn_enabled": true
+}

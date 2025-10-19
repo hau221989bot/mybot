@@ -1,0 +1,42 @@
+{
+  "BTC": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "ETH": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "LTC": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "LINEA": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "SOL": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "BNB": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "ADA": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  },
+  "PEPE": {
+    "confirm": 2.5,
+    "alert": 1.2,
+    "risk_factor": 1.0
+  }
+}
